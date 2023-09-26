@@ -1,0 +1,21 @@
+.middle-section {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 140px;
+  row-gap: 20px;
+  padding-left: 130px;
+  padding-right: 130px;
+
+}
+
+.middle-section input[type="text"] {
+  width: 100%;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+
+
