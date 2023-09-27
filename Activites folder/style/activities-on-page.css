@@ -1,0 +1,30 @@
+.activities-container {
+  margin-top: 70px;
+}
+
+.exercise-photo:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.exercise-photo:active {
+  opacity: 0.5;
+}
+
+.videos-photo:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.videos-photo:active {
+  opacity: 0.5;
+}
+
+.connect-photo:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.connect-photo:active {
+  opacity: 0.5;
+}
